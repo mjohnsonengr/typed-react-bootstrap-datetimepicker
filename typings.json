@@ -1,0 +1,11 @@
+{
+  "name": "react-bootstrap-datetimepicker",
+  "main": "index.d.ts",
+  "homepage": "https://github.com/quri/react-bootstrap-datetimepicker",
+  "dependencies": {
+    "moment": "registry:npm/moment#2.10.5+20160211003958"
+  },
+  "ambientDependencies": {
+    "react": "registry:dt/react#0.14.0+20160319053454"
+  }
+}
